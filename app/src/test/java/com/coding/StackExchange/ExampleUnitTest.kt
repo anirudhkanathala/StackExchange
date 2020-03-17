@@ -1,4 +1,4 @@
-package com.coding.StackExchange
+package com.coding.stackexchange
 
 import org.junit.Test
 
